@@ -93,3 +93,8 @@ Contributions are always welcome! Just raise an issue, and we will discuss it.
 
 Feedback
 If you have any feedback, please reach out to me here
+<img width="640" height="292" alt="image" src="https://github.com/user-attachments/assets/a70c9393-3a60-4996-9a84-1ad42d0b9e5a" />
+<img width="640" height="305" alt="image" src="https://github.com/user-attachments/assets/ecaa8045-703a-479f-8222-29ca79243bd5" />
+<img width="640" height="303" alt="image" src="https://github.com/user-attachments/assets/b2077447-80c3-4d44-8bf2-74806b21e71d" />
+<img width="640" height="302" alt="image" src="https://github.com/user-attachments/assets/c9328b7f-831c-43f9-9535-a0c479200615" />
+
